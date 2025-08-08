@@ -10,7 +10,7 @@
         Background="#222222"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <navigation:MagicBar>
+        <navigation:MagicBar x:Name="bar">
             <ListBoxItem Content="Microsoft" Tag="{x:Static james:IconType.Microsoft}"/>
             <ListBoxItem Content="Apple" Tag="{x:Static james:IconType.Apple}"/>
             <ListBoxItem Content="Google" Tag="{x:Static james:IconType.Google}"/>
