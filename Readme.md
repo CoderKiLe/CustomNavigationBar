@@ -2,8 +2,16 @@
 
 This project is a custom navigation bar control for WPF applications, named `MagicBar`. It provides an interactive and animated navigation experience. The control is based on a `ListBox` and features a "magic" moving circle that highlights the selected item.
 
-![MagicBar Demo](https://i.imgur.com/your-demo-image.gif) <!-- Replace with an actual GIF -->
-
+<table>
+  <tr>
+    <th>Preview 1</th>
+    <th>Preview 2</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ee30d322-c33f-4a75-81ed-2e534200a928" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dbe2ef93-c609-4f45-a5a0-061e7bdced5f" width="500"/></td>
+  </tr>
+</table>
 ## Features
 
 - **Interactive Navigation**: A `ListBox`-based control that's easy to use and bind to data.
