@@ -12,6 +12,7 @@ This project is a custom navigation bar control for WPF applications, named `Mag
     <td><img src="https://github.com/user-attachments/assets/dbe2ef93-c609-4f45-a5a0-061e7bdced5f" width="500"/></td>
   </tr>
 </table>
+
 ## Features
 
 - **Interactive Navigation**: A `ListBox`-based control that's easy to use and bind to data.
